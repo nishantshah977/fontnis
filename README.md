@@ -8,6 +8,12 @@ Collection of Fancy and Most Beautiful Fonts Which is Hard to Find.
 
 <b>Font preview is available in Image format</b>
 
+# Add
+You can Add your own theme also but it must not be available on <b>Google Fonts </b>
+<br>
+1. Fork and Create a pull request, or
+2. Contact me via e-mail or social media 
+
 # Copyright 
  If you're the owner or Copyright holder than please contact me via <a href="mailto:ns362039@gmail.com">ns362039@gmail.com</a>  .
 
