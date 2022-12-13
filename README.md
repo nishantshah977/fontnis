@@ -9,7 +9,7 @@ Collection of Fancy and Most Beautiful Fonts Which is Hard to Find.
 <b>Font preview is available in Image format</b>
 
 # Add
-You can Add your own theme also but it must not be available on <b>Google Fonts </b>
+You can Add your own theme also. To add:
 <br>
 1. Fork and Create a pull request, or
 2. Contact me via e-mail or social media 
